@@ -5,6 +5,9 @@ __pycache__/
 # C extensions
 *.so
 
+# IDE config
+.idea/
+
 # Distribution / packaging
 .Python
 env/
